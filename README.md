@@ -1,3 +1,14 @@
-[![Munieru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munierujp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munierujp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=munierujp&show_icons=true"
+    alt="Munieru's GitHub Stats"
+    align="left"
+  />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=munierujp&layout=compact"
+    alt="Most Used Languages"
+    align="left"
+  />
+</a>
