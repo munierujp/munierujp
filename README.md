@@ -3,8 +3,6 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/munieru_jp/contributions.svg)](http://qiita.com/munieru_jp/contributions)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/munieru_jp/followers.svg)](http://qiita.com/munieru_jp/followers)
 
-## Stats
-
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
