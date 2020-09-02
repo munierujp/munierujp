@@ -12,10 +12,3 @@
     alt="Munieru's GitHub Stats"
   />
 </a>
-
-<!--
-## Trophies
-
-<!-- see https://github.com/ryo-ma/github-profile-trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=munierujp)](https://github.com/ryo-ma/github-profile-trophy)
--->
