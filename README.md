@@ -1,5 +1,3 @@
-## Qiita
-
 <!-- see https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/munieru_jp/posts.svg)](http://qiita.com/munieru_jp)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/munieru_jp/contributions.svg)](http://qiita.com/munieru_jp/contributions)
