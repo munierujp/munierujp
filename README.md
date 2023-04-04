@@ -6,4 +6,4 @@
   - [Add @secretlint/secretlint-rule-no-dotenv](https://github.com/secretlint/secretlint/pull/121)
 - [uBkacklist](https://github.com/iorate/ublacklist)
   - [Add Yahoo! JAPAN support](https://github.com/iorate/ublacklist/pull/236)
-- [東京都 新型コロナウイルス感染症対策サイト](https://github.com/tokyo-metropolitan-gov/covid19/)
+- [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19/)
