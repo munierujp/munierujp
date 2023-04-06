@@ -1,7 +1,6 @@
 ## Achievements
 ### Created
 
-- [GASUnit](https://github.com/gasunit/GASUnit)
 - [npm-update-package](https://github.com/npm-update-package/npm-update-package)
 - [回文メーカー](https://github.com/kaibunmaker/kaibunmaker)
 
