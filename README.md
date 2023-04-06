@@ -5,7 +5,7 @@
 - [npm-update-package](https://github.com/npm-update-package/npm-update-package)
 - [回文メーカー](https://github.com/kaibunmaker/kaibunmaker)
 
-### Contributons
+### Contributed
 
 - [JavaScript Standard Style](https://github.com/standard/standard)
   - [Add Japanese translation](https://github.com/standard/standard/pull/1213)
