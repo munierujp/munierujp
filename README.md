@@ -10,3 +10,4 @@
 - [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19/)
 - [uBkacklist](https://github.com/iorate/ublacklist)
   - [Add Yahoo! JAPAN support](https://github.com/iorate/ublacklist/pull/236)
+- [回文メーカー](https://github.com/kaibunmaker/kaibunmaker)
