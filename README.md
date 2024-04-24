@@ -1,7 +1,6 @@
 ## Achievements
 ### Created
 
-- [ChatGPT Web App](https://github.com/munierujp/chatgpt-web-app)
 - [imgcalc](https://github.com/munierujp/imgcalc)
 - [npm-update-package](https://github.com/npm-update-package/npm-update-package)
 - [#あの日のツイートを表示するやつ](https://github.com/munierujp/anohi-no-tweet)
