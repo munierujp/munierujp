@@ -10,6 +10,7 @@
 ### 💪 Contributed
 
 - [JavaScript Standard Style](https://github.com/standard/standard)
+- [KamiMap](https://github.com/codeforjapan/mapprint)
 - [Markuplint](https://github.com/markuplint/markuplint)
 - [Secretlint](https://github.com/secretlint/secretlint)
 - [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19/)
